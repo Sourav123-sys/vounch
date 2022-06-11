@@ -51,10 +51,10 @@ const Login = () => {
                     </Form.Group>
                     <button className='custom-bg-3  d-block mx-auto' type='submit'>Login</button>
                     <div className='d-flex justify-content-between'>
-                    <Form.Group className="mb-3" id="formGridCheckbox">
+                    <Form.Group className="mb-3 span" id="formGridCheckbox">
         <Form.Check type="checkbox" label="Remember password" />
                         </Form.Group>
-                        <span >Forgot Password?</span>
+                        <span className='span'>Forgot Password?</span>
                     </div>
     </Form>
               

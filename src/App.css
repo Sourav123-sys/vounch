@@ -32,6 +32,7 @@ body{
   padding-left:50%;
   padding-top:2%;
   padding-bottom:2%;
+  text-align: center;
 }
 .custom-bg-2{
   background-color:#D24A43 !important;
@@ -47,10 +48,11 @@ width:50%;
   .custom-bg-3{
     background-color:#023047 !important;
     color:white !important;
-    padding-right:50%;
-    padding-left:38%;
+    padding-right:43%;
+    padding-left:43%;
     padding-top:2%;
     padding-bottom:2%;
+  
   }
 .input{
   width:100%;
@@ -60,6 +62,18 @@ width:50%;
 }
 .login{
   margin-top:30%;
+}
+.span{
+  font-size:15px;
+}
+.text-head{
+  text-align:center;
+  font-size:45px;
+}
+.text-head-1{
+  text-align:center;
+  font-size:15px;
+  font-weight:700px;
 }
 } 
   
