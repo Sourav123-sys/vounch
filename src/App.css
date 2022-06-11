@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Poppins:ital,wght@1,300&family=Raleway:wght@600;700&family=Roboto+Mono:wght@300&display=swap');
+
+
+body{
+  font-family: 'Inter', sans-serif !important;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+.custom-bg{
+  background-color:#023047 !important;
+  color:white !important;
+}
+.text-head{
+  text-align:center;
+}
+.text-head-1{
+  text-align:center;
+  font-size:15px;
+  font-weight:400px;
+}
+.custom-bg-3{
+  background-color:#023047 !important;
+  color:white !important;
+  padding-right:50%;
+  padding-left:50%;
+  padding-top:2%;
+  padding-bottom:2%;
+}
+.custom-bg-2{
+  background-color:#D24A43 !important;
+  color:white !important;
+  margin-left:5px;
+}
+.custom-width{
+width:50%;
+}
+ @media screen and (max-width: 668px) {
+
+
+  .custom-bg-3{
+    background-color:#023047 !important;
+    color:white !important;
+    padding-right:50%;
+    padding-left:38%;
+    padding-top:2%;
+    padding-bottom:2%;
+  }
+.input{
+  width:100%;
+}
+.custom-width{
+  width:80%;
+}
+.login{
+  margin-top:30%;
+}
+} 
+  
